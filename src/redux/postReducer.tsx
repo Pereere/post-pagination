@@ -2,7 +2,7 @@ import { createSlice } from "@reduxjs/toolkit";
 import { postArray } from '../untils/postArray';
 
 
-const initialState = 'Smart';
+const initialState = postArray;
 
 export const postReducer = createSlice( {
     name: 'posts',
