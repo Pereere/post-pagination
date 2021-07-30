@@ -2,6 +2,7 @@ import React from 'react';
 // @ts-ignore
 import { BrowserRouter, Switch, Route } from 'react-router-dom';
 import './App.css';
+import './style/mystyle.css';
 import PersonList from "./Components/PersonList";
 import PersonInput from "./Components/PersonInput";
 import Home from "./Components/Home";

@@ -16,7 +16,7 @@ const AllPosts = () => {
 
     const displayAllPosts = allPosts.map( (post:any) => {
         return(
-            <div key={post.id}>
+            <div key={post.id} >
                 <EachPost
                     postId={post.id}
                     postTitle={post.title}
@@ -26,7 +26,7 @@ const AllPosts = () => {
         )
     })
     return(
-        <div>
+        <div className="each-post-con">
             {displayAllPosts}
         </div>
     );

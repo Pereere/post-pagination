@@ -1,0 +1,25 @@
+body {
+
+  .each-post-con {
+    display: flex;
+    flex-wrap: wrap;
+    align-items: center;
+    transition: all 0.3s cubic-bezier(0.74, -0.01, 0.36, 1.4);
+    justify-content: space-between;
+    .each-post {
+      max-width: 300px;
+      border: 1px solid cornflowerblue;
+      border-radius: 10px;
+      padding: 5px;
+      margin: 10px;
+      box-shadow: -1px 2px 3px #19468b;
+
+      .each-post-title{
+        border-bottom: 1px solid cornflowerblue;
+        background: silver;
+        border-radius: 10px;
+        padding: 5px;
+      }
+    }
+  }
+}

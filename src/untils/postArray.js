@@ -2,7 +2,7 @@ export const postArray = [
     {
         "userId": 1,
         "id": 1,
-        "title": "sunt aut facere repellat provident occaecati excepturi optio reprehenderit",
+        "title": "sunt aut facere repellat provident",
         "body": "quia et suscipit\nsuscipit recusandae consequuntur expedita et cum\nreprehenderit molestiae ut ut quas totam\nnostrum rerum est autem sunt rem eveniet architecto"
     },
     {
@@ -14,7 +14,7 @@ export const postArray = [
     {
         "userId": 1,
         "id": 3,
-        "title": "ea molestias quasi exercitationem repellat qui ipsa sit aut",
+        "title": "ea molestias quasi exercitationem repellat",
         "body": "et iusto sed quo iure\nvoluptatem occaecati omnis eligendi aut ad\nvoluptatem doloribus vel accusantium quis pariatur\nmolestiae porro eius odio et labore et velit aut"
     },
     {
@@ -74,7 +74,7 @@ export const postArray = [
     {
         "userId": 2,
         "id": 13,
-        "title": "dolorum ut in voluptas mollitia et saepe quo animi",
+        "title": "dolorum ut in voluptas mollitia et saepe",
         "body": "aut dicta possimus sint mollitia voluptas commodi quo doloremque\niste corrupti reiciendis voluptatem eius rerum\nsit cumque quod eligendi laborum minima\nperferendis recusandae assumenda consectetur porro architecto ipsum ipsam"
     },
     {
@@ -92,13 +92,13 @@ export const postArray = [
     {
         "userId": 2,
         "id": 16,
-        "title": "sint suscipit perspiciatis velit dolorum rerum ipsa laboriosam odio",
+        "title": "sint suscipit perspiciatis velit dolorum",
         "body": "suscipit nam nisi quo aperiam aut\nasperiores eos fugit maiores voluptatibus quia\nvoluptatem quis ullam qui in alias quia est\nconsequatur magni mollitia accusamus ea nisi voluptate dicta"
     },
     {
         "userId": 2,
         "id": 17,
-        "title": "fugit voluptas sed molestias voluptatem provident",
+        "title": "fugit voluptas sed molestias voluptatem",
         "body": "eos voluptas et aut odit natus earum\naspernatur fuga molestiae ullam\ndeserunt ratione qui eos\nqui nihil ratione nemo velit ut aut id quo"
     },
     {
@@ -122,7 +122,7 @@ export const postArray = [
     {
         "userId": 3,
         "id": 21,
-        "title": "asperiores ea ipsam voluptatibus modi minima quia sint",
+        "title": "asperiores ea ipsam voluptatibus modi",
         "body": "repellat aliquid praesentium dolorem quo\nsed totam minus non itaque\nnihil labore molestiae sunt dolor eveniet hic recusandae veniam\ntempora et tenetur expedita sunt"
     },
     {
@@ -164,7 +164,7 @@ export const postArray = [
     {
         "userId": 3,
         "id": 28,
-        "title": "delectus ullam et corporis nulla voluptas sequi",
+        "title": "delectus ullam et corporis nulla",
         "body": "non et quaerat ex quae ad maiores\nmaiores recusandae totam aut blanditiis mollitia quas illo\nut voluptatibus voluptatem\nsimilique nostrum eum"
     },
     {

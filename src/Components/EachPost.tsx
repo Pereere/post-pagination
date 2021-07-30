@@ -2,15 +2,15 @@ import React from 'react';
 
 const EachPost = (props: any) => {
     return (
-        <div className="each-post-id">
-            <div>
-                <h3> {props.postTitle}</h3>
-            </div>
+            <div className="each-post">
+                <div className="each-post-title">
+                    <h3> {props.postTitle}</h3>
+                </div>
 
-            <div>
-                <p> {props.postBody} </p>
+                <div>
+                    <p> {props.postBody} </p>
+                </div>
             </div>
-        </div>
     );
 };
 
