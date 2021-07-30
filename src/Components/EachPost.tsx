@@ -1,9 +1,15 @@
 import React from 'react';
 
-const EachPost = () => {
-    return(
-        <div>
-            <p> Each Post</p>
+const EachPost = (props: any) => {
+    return (
+        <div className="each-post-id">
+            <div>
+                <h3> {props.postTitle}</h3>
+            </div>
+
+            <div>
+                <p> {props.postBody} </p>
+            </div>
         </div>
     );
 };

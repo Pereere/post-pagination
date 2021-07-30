@@ -1,5 +1,6 @@
 import React from 'react';
 import { useSelector } from 'react-redux';
+import EachPost from "./EachPost";
 
 interface postType {
     userId: number,
@@ -16,7 +17,11 @@ const AllPosts = () => {
     const displayAllPosts = allPosts.map( (post:any) => {
         return(
             <div key={post.id}>
-                <p> {post.title} </p>
+                <EachPost
+                    postId={post.id}
+                    postTitle={post.title}
+                    postBody={post.body}
+                />
             </div>
         )
     })
